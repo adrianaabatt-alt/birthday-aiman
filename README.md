@@ -69,10 +69,10 @@
 <body>
     <div class="card">
         <div class="hearts">💖🎂🎉</div>
-        <h1>Happy Birthday My favorite personn🎂</h1>
+        <h1>Happy Birthday To My favorite personn🎂</h1>
         
         <div class="message">
-            <p>Selamat ulang tahun yang ke -<span id="age">[16 tahon]</span> tahun!</p>
+            <p>Selamat ulang tahun yang ke -<span id="age">16</span> tahun!</p>
             <p>Happy Birthday My Handsome Boyy!, hari ini hari yang special kan bagi babyy sayang, btw kan baby tau takk sejak baby ada dalam hidup sayang, sayang lagi happy tauu sayang rasa disayangi,dihargai, sayang rasa sayang dah selesa sangat sangat dengan baby hihi sayang tatau la mcm mne nak cakap lagi tapi sayang memang tanak hilang baby. walau macam mana pon sayang tetap akan pilih baby .</p>
             <p>Sayang doakan semoga babyy sentiasa sihat ,dikurniakan rezeki yang berpanjangan, dapat banggakan ibu dan ayah dan juga berjaya di dunia dan akhiratt.</p>
         </div>
@@ -83,7 +83,7 @@
         
         <div id="specialMessage" class="hidden-message">
             <h3>Untuk Baby Sayangg🤍</h3>
-            <p>[baby mesti da tahu kan yang baby tk sama langsung dengan lelaki lain, baby baik dengan sayang, and baby tk penah marah sayang lepastu kalau sayang ada silap baby mesti tegur baik baik, baby tak penah gagal untuk buat sayang senyum ,buat sayang rasa bahagia,sayang tak pernah dapat macam ni dari orang lain. baby selalu layan perangai sayang dan baby yang selalu ada bila sayang ada masalah. baby je tempat yang paling selesa untuk sayang meluah. kehadiran baby dalam hidup sayang memang buat hidup sayang berubah ,berubah banyak sangat. sayang takkan tinggalkan baby dan sayang nk tepati janji sayang untuk jaga baby , sayang nak ada dengan baby sentiasa,sayang nak ada time baby nges,sayang nak peluk baby kalau baby ada masalah,sayang nak lap air mata baby kalau baby menanges,sayang nak jaga baby macam mana ibu jaga baby. sayang sayang sangat dengan baby dan sayang harap relay kita boleh bertahan lama.]</p>
+            <p>baby mesti da tahu kan yang baby tk sama langsung dengan lelaki lain, baby baik dengan sayang, and baby tk penah marah sayang lepastu kalau sayang ada silap baby mesti tegur baik baik, baby tak penah gagal untuk buat sayang senyum ,buat sayang rasa bahagia,sayang tak pernah dapat macam ni dari orang lain. baby selalu layan perangai sayang dan baby yang selalu ada bila sayang ada masalah. baby je tempat yang paling selesa untuk sayang meluah. kehadiran baby dalam hidup sayang memang buat hidup sayang berubah ,berubah banyak sangat. sayang takkan tinggalkan baby dan sayang nk tepati janji sayang untuk jaga baby , sayang nak ada dengan baby sentiasa,sayang nak ada time baby nges,sayang nak peluk baby kalau baby ada masalah,sayang nak lap air mata baby kalau baby menanges,sayang nak jaga baby macam mana ibu jaga baby. sayang sayang sangat dengan baby dan sayang harap relay kita boleh bertahan lama.</p>
             <p>Sayanng bersyukur sangat sebab baby ada dalam hidup sayang,</p>
         </div>
     </div>
